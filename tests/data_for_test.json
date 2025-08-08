@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Vitaliy",
+    "appearance": {
+      "gender": "Male",
+      "height": ["6'8", "203 cm"]
+    },
+    "work": {"base": "-", "occupation": "Paranormal Investigator"}
+  },
+  {
+    "name": "Oleg",
+    "appearance": {
+      "gender": "Male",
+      "height": ["200", "61.0 meters"]
+    },
+    "work": {
+      "base": "Qward, Antimatter Universe",
+      "occupation": "Vigilante; former journalist for the Daily Globe"
+    }
+  },
+  {
+   "name": "Misha",
+    "appearance": {
+      "gender": "Male",
+      "height": ["7'0", "213 cm"]
+    },
+    "work": {"base": "-", "occupation": "-"}
+  },
+  {
+    "name": "Mark",
+    "appearance": {
+      "gender": "Male",
+      "height": ["6'6", "198 cm"]
+    },
+    "work": {"base": "-", "occupation": "-"}
+  },
+  {
+    "name": "Nika",
+    "appearance": {
+      "gender": "Female",
+      "height": ["5'6", "168 cm"]
+    },
+    "work": {
+      "base": "Mobile; formerly Anchorage, Alaska; Reaver Base",
+      "occupation": "Bounty Hunter"
+    }
+  },
+  {
+    "name": "Miky",
+    "appearance": {
+      "gender": "Female",
+      "height": ["6'2", "188 cm"]
+    },
+    "work": {
+      "base": "Qward, Antimatter Universe",
+      "occupation": "Vigilante; former journalist for the Daily Globe"
+    }
+  },
+  {
+    "name": "Kate",
+    "appearance": {
+      "gender": "Female",
+      "height": ["5'11", "18.0 meters"]
+    },
+    "work": {"base": "-", "occupation": "-"}
+  },
+  {
+    "name": "Mona",
+    "appearance": {
+      "gender": "Female",
+      "height": ["9'0", "25.0 meters"]
+    },
+    "work": {"base": "-", "occupation": "-"}
+  },
+  {
+    "name": "CarSuper",
+    "appearance": {
+      "gender": "-",
+      "height": ["-", "0 cm"]
+    },
+    "work": {
+      "base": "-",
+      "occupation": "Special Consultant to 'The Pulse'"
+    }
+  },
+  {
+    "name": "NoGender",
+    "appearance": {
+      "gender": "-",
+      "height": ["6'5", "196 cm"]
+    },
+    "work": {
+      "base": "Arkham Asylum, Gotham City; Ha-Hacienda",
+      "occupation": "Adventurer'"
+    }
+  },
+  {
+    "name": "NoGenderNoWork",
+    "appearance": {
+      "gender": "-",
+      "height": ["5'5", "165 cm"]
+    },
+    "work": {
+      "base": "Arkham Asylum, Gotham City; Ha-Hacienda",
+      "occupation": "-"
+    }
+  },
+  {
+    "name": "NoGenderNoWork2",
+    "appearance": {
+      "gender": "-",
+      "height": ["6'2", "188 cm"]
+    },
+    "work": {
+      "base": "-",
+      "occupation": "-"
+    }
+  }
+]
