@@ -29,7 +29,7 @@ def get_the_tallest_hero(gender: Literal['Male', 'Female', '-'], work: bool) -> 
     return the_tallest_hero
 
 
-# при запуске тестов лучше закомитить строки ниже, т.к. покрытие тестов падает со 100% до 79%
+# при запуске тестов лучше закомитить строки ниже, т.к. покрытие тестами падает со 100% до 79%
 if __name__ == "__main__":
     print(get_the_tallest_hero('Female', False))
     print(get_the_tallest_hero('Male', False))
